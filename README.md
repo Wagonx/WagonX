@@ -67,8 +67,8 @@ class SecurityResearcher:
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=WagonX&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagonX&layout=compact&theme=radical" alt="Top Languages" height="165">
 </div>
 
 ## 📝 Latest Security Research & Writeups
@@ -90,7 +90,7 @@ Coming Soon....
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff0000&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=WagonX&color=ff0000&style=flat-square&label=Profile+Views" alt="Profile Views">
   <br>
   
 ```
